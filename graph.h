@@ -1,0 +1,2 @@
+
+int* make_graph();
